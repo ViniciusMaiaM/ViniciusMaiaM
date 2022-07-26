@@ -13,7 +13,7 @@ Always looking to expand my knowledge! 🔭
 </div>
 
 <div style = "dysplay: inline_block">
-  <img align = "center" alt = "python" height = "30" width = "130" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align = "center" alt = "python" height = "30" width = "100" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
 ##
