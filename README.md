@@ -13,7 +13,7 @@ Always looking to expand my knowledge! 🔭
 </div>
 
 <div style = "dysplay: inline_block">
-  <img align = "center" alt = "python" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align = "center" alt = "python" height = "30" width = "130" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
 ##
@@ -21,8 +21,7 @@ Always looking to expand my knowledge! 🔭
 
 <div> 
   <a href = "mailto:viniciusmaiamarinho1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/vinicius-maia-545000239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
+  <a href="https://www.linkedin.com/in/vinicius-maia-545000239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 <!---
