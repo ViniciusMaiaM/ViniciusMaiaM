@@ -10,14 +10,14 @@
  
 ____
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ViniciusMaiaM">
   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=ViniciusMaiaM&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMaiaM&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
 <p style = "dysplay: inline_block">
-  <img align = "center" alt = "python" height = "30" width = "30" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align = "center" alt = "python" height = "30" width = "230" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </p>
 
  
