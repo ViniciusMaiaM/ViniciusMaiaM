@@ -17,12 +17,12 @@ ____
 </p>
 
 <p style = "dysplay: inline_block">
-  <img align = "center" alt = "python" height = "30" width = "80" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align = "center" alt = "python" height = "30" width = "30" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </p>
 
  
  
-<p> 
+<p align= "center"> 
  <a href= "mailto:viniciusmaiamarinho1@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
