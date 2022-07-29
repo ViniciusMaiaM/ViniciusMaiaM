@@ -1,6 +1,6 @@
 # Hi, i'm Vinicius, welcome to my profile!
 
-**I'm at university and trying to become a dev.**
+I'm at university and trying to become a dev.
 
 - Currently learning Python and C 👨‍💻 
 
@@ -17,7 +17,7 @@ ____
 </p>
 
 <p style = "dysplay: inline_block">
-  <img align = "center" alt = "python" height = "30" width = "80" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align = "center" alt = "python" height = "30" width = "70" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </p>
 
  
