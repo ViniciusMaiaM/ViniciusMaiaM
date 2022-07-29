@@ -1,7 +1,7 @@
 # Hi, i'm Vinicius, welcome to my profile!
 
-#### Nice to meet you! <img align= "right" src= "https://komarev.com/ghpvc/?username=ViniciusMaiaM">
-I'm at the university and trying to become a dev.
+### Nice to meet you! <img align= "right" src= "https://komarev.com/ghpvc/?username=ViniciusMaiaM">
+**I'm at the university and trying to become a dev.**
 
 - Currently learning Python and C 👨‍💻 
 
