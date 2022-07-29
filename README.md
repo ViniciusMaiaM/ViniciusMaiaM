@@ -2,7 +2,7 @@
 
 **I'm at university and trying to become a dev.**
 
-**Currently learning Python and C!**
+- Currently learning Python and C 👨‍💻 
 
 - Always researching and improving my knowledge! 🔭
  
