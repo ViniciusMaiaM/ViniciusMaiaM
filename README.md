@@ -18,7 +18,7 @@ ____
 </p>
 
 <p style = "dysplay: inline_block">
-  <img align = "center" alt = "python" height = "30" width = "60" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align = "center" alt = "python" height = "30" width = "80" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </p>
 
  
