@@ -17,10 +17,10 @@ ____
   <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMaiaM&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
-<p style = "dysplay: inline_block">
-  <img align = "center" alt = "python" height = "30" width = "120" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align = "center" alt = "c" height = "30" width = "120" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" >       
-</p>
+<div style = "dysplay: inline_block">
+  <img align = "center" alt = "python" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align = "center" alt = "c" height = "30" width = "40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" >       
+</div>
 
  
  
