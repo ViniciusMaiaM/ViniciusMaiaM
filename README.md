@@ -3,7 +3,7 @@
 ### Nice to meet you! <img align= "right" src= "https://komarev.com/ghpvc/?username=ViniciusMaiaM">
 **I'm at the university and trying to become a dev.**
 
-- Currently learning Python and C 👨‍💻 
+- Currently learning Python, C and Web Development 👨‍💻 
 
 - Always researching and improving my knowledge! 🔭
  
@@ -18,17 +18,17 @@ ____
 </p>
 
 <div style = "dysplay: inline_block">
+  <img align = "center" alt = "html" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align = "center" alt = "css" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align = "center" alt = "js" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align = "center" alt = "python" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align = "center" alt = "c" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />       
   <img align = "center" alt = "pandas" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align = "center" alt = "jupyter" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original wordmark.svg" />
-  <img align = "center" alt = "html" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align = "center" alt = "css" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align = "center" alt = "js" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
  
- 
+___
 <p align= "center"> 
  <a href= "mailto:viniciusmaiamarinho1@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
