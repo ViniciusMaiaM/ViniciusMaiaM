@@ -24,7 +24,8 @@ ____
   <img align = "center" alt = "python" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align = "center" alt = "c" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />       
   <img align = "center" alt = "pandas" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-  <img align = "center" alt = "jupyter" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original wordmark.svg" />
+  <img align = "center" alt = "pandas" height = "30" width = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+          
 </div>
 
  
