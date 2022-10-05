@@ -10,13 +10,13 @@
 - Undergratuated in Information Systems 🎓
  
 ____
-
+<!---
 <p align="center">
   <a href="https://github.com/ViniciusMaiaM">
   <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=ViniciusMaiaM&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusMaiaM&layout=compact&langs_count=7&theme=radical"/>
 </p>
-
+--->
 <div style = "dysplay: inline_block">
   <img align = "center" alt = "html" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align = "center" alt = "css" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
