@@ -21,6 +21,8 @@ ____
   <img align = "center" alt = "html" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align = "center" alt = "css" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align = "center" alt = "js" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <img align = "center" alt = "ts"  height = "30" width = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+          
   <img align = "center" alt = "python" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align = "center" alt = "c" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />       
   <img align = "center" alt = "pandas" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
