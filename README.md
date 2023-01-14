@@ -1,16 +1,21 @@
 # Hi, i'm Vinicius, welcome to my profile!
 
-### Nice to meet you! <img align= "right" src= "https://komarev.com/ghpvc/?username=ViniciusMaiaM">
-**I'm at the university and trying to become a dev.**
+### Nice to meet you!
+I'm Vinicius Maia, a undergraduate student of Information Systems at the Federal University of Rio Grande do Norte (UFRN) and also undergraduate at the technical course of Computer Networks at the same institution. 
 
-- Currently learning Python, C and Web Development 👨‍💻 
+<img align="right" alt="Make by: https://tudoujie.tumblr.com/page/2" src="https://i.pinimg.com/564x/fe/17/41/fe174100819cc253196581aa99d907fa.jpg" width="408" height="318"/>
+
+**What I'm doing?**
+
+- Currently studying about Web Development, c and some other languages👨💻 
 
 - Always researching and improving my knowledge! 🔭
  
 - Undergratuated in Information Systems 🎓
- 
-____
 
+- Searching for a internship!
+
+___
 <p align="center">
   <a href="https://github.com/ViniciusMaiaM">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=ViniciusMaiaM&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
