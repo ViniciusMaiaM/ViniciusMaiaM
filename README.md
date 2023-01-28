@@ -1,6 +1,6 @@
 # Hi, i'm Vinicius, welcome to my profile!
 
-<img align="right" alt="Make by: https://tudoujie.tumblr.com/page/2" src="https://i.pinimg.com/564x/fe/17/41/fe174100819cc253196581aa99d907fa.jpg" width="350" height="330"/>
+<img align="right" alt="Make by: https://tudoujie.tumblr.com/page/2" src="https://i.pinimg.com/564x/fe/17/41/fe174100819cc253196581aa99d907fa.jpg" width="375" height="340"/>
 
 ### Nice to meet you!
 I'm Vinicius Maia, a undergraduate student of Information Systems at the Federal University of Rio Grande do Norte (UFRN) and also undergraduate at the technical course of Computer Networks at the same institution. 
