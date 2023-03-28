@@ -32,7 +32,6 @@ ___
   <img align = "center" alt = "vuejs" heigh = "30" width = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align = "center" alt = "react" height = "30" width = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align = "center" alt = "python" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align = "center" alt = "c" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />       
   <img align = "center" alt = "pandas" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align = "center" alt = "kotlin" height = "30" width = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 </div>
