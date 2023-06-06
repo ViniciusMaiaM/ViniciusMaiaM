@@ -8,13 +8,11 @@ I'm Vinicius Maia, a undergraduate student of Information Systems at the Federal
 
 **What I'm doing?**
 
-- Currently studying about Web Development, focusing on typescript and some other languages👨💻 
+- Currently studying about Web Development, focusing on typescript and node👨💻 
 
 - Always researching and improving my knowledge! 🔭
  
 - Undergratuated in Information Systems 🎓
-
-- Searching for a internship!
 
 ___
 <p align="center">
