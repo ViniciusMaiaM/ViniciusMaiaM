@@ -22,11 +22,10 @@ ___
 </p>
 
 <div style = "dysplay: inline_block">
-  <img align = "center" alt = "html" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align = "center" alt = "css" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align = "center" alt = "js" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align = "center" alt = "ts"  height = "30" width = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align = "center" alt = "nodejs" heigh = "11" width = "35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align = "center" alt = "nestjs" heigh = "11" width = "35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
   <img align = "center" alt = "vuejs" heigh = "11" width = "35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img align = "center" alt = "react" height = "30" width = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align = "center" alt = "python" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
