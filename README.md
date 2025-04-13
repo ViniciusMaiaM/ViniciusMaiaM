@@ -8,7 +8,7 @@ I'm Vinicius Maia, a undergraduate student of Information Systems at the Federal
 
 **What I'm doing?**
 
-- Currently focused on web development with a strong emphasis on TypeScript and Node.js. I am also exploring machine learning, particularly concentrating on unsupervised learning techniques👨💻 
+- Currently focused on Back-end with a strong emphasis on kotlin and typescript. I am also exploring machine learning, particularly concentrating on unsupervised learning techniques👨💻 
 
 - Always researching and improving my knowledge! 🔭
  
